@@ -1,6 +1,7 @@
-* 👋 Hello, I'm Jnaneswar
-* I am looking forward to collaborate on open source projects
-* Reach out to met at: Jnaneshvsjnani@gmail.com
+* 👋 Hello, I'm Jnaneswar, an undergraduate at IIT Madras
+* 🤖 I am interested in developing and coding algorithmic solutions to real life problems
+* 🤝 I am looking forward to collaborate on open source projects
+* ✉️ Reach out to me at: Jnaneshvsjnani@gmail.com
 
 <!--
 **Jnaneshrompilli/jnaneshrompilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
